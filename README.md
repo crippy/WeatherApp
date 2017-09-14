@@ -1,4 +1,4 @@
-#Location based Weather App
+# Location based Weather App
 
 A location based weather app that makes use of the browser navigator object to get a location.
 The app currently uses two API libraries (Google / Forecast.io), Google for reverse geocoding and Forecast.io to provide
