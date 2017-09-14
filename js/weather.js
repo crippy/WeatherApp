@@ -1,6 +1,6 @@
 (function(){
 
-    const API_KEY = 'dfb0f82962958bfcee501a3f9b134545';
+    const API_KEY = 'replace yours here';
     const weatherUrl = 'https://api.forecast.io/forecast/';
     var skycons = new Skycons({"color" : "white"});
     var lat, lon, season;
